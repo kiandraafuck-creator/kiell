@@ -1,5 +1,10 @@
-Love Heart* { margin: 0; padding: 0; box-sizing: border-box; }
-body { background: #000; overflow: hidden; display: flex; align-items: center; justify-content: center; height: 100vh; }
+Love Heart* { margin: 0; 
+padding: 0; box-sizing: border-box; }
+body { background: #000; 
+overflow: hidden; display:
+flex; align-items: center; 
+justify-content: center; 
+height: 100vh; }
 canvas { display: block; }
 const canvas = document.getElementById("c");
 const ctx = canvas.getContext("2d");
